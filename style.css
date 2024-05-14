@@ -1,0 +1,11 @@
+*{
+    font-family: Jetbrains Mono;
+}
+body{
+    margin: 0;
+}
+#searchBox{
+    width: 800px;
+    height: 100px;
+    font-size: 70px;
+}
